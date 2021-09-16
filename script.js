@@ -5,8 +5,8 @@ document.querySelectorAll('.watch-control, .controls a, .iphone-btn').forEach(co
     })
 })
 // End of Common JS
-
-// Cube 
+ 
+// Cube
 let x = 0
 let y = 20
 let z = 0
@@ -61,7 +61,7 @@ document.querySelector('.controls').addEventListener('mouseout', () => {
     playPause()
 })
 
-// End of Cube 
+// End of Cube
 
 // Slideshow
 const slideshowDivs = () => {
